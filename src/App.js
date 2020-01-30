@@ -2,8 +2,8 @@ import React, { Component } from "react";
 import "./App.css";
 
 class App extends Component {
-  constructor(info) {
-    super(info);
+  constructor(props) {
+    super(props);
     this.estado = {
       titulo: "Formulário CRUD utilizando React JS",
       atual: 0,
