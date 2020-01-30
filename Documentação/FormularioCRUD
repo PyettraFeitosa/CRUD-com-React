@@ -1,0 +1,21 @@
+Formulário CRUD utilizando React JS
+
+Utilizando alguns conhecimentos de JavaScript e estudando sobre Node JS e React JS, este formulário foi elaborado com o objetivo de criar,
+visualizar, modificar e deletar arquivos enviados. A princípio pensei em utilizar banco de dados, comecei fazendo alguns testes com o
+MySQL que deram certo. 
+No entanto, estava utilizando muito mais o Node JS, como o formulário foi solicitado de modo que fossem utilizadas ferramentas do 
+React JS, então optei por deixar de lado os avanços com o Node JS e começar de novo utilizando o React JS. 
+O formulário é simples, tem os campos de nome e e-mail, onde o usuário insere as informações e clica em 'Enviar' ou então aperta a tecla 
+'Enter' do teclado. Após isso, logo abaixo do formulário são mostrados os dados cadastrados com dois botões ao lado, o de 'Remover' como
+o próprio nome já diz, para remover as informações e o de 'Editar' para que as informações possam ser editadas caso haja algum erro.
+Para a criação deste formulário foram feitas muitas pesquisas na ferramenta de buscas Google, principalmente vendo vídeos para que pudesse
+entender melhor o funcionamento das funções utilizadas, bem como pesquisas em fóruns, além de um conhecimento pré-existente sobre 
+JavaScript e HTML que foram muito utilizadas para a configuração da página web.
+Para iniciar a criação do site, após instalar o Node JS e algumas ferramentas utilizadas por ele, instalei o React e utilizei o comando 
+create-react-app app-crud no cmd, daí foi criada uma pasta e em seguida no navegador foi criada a página 'http://localhost:3000/' onde
+utilizando o Atom como interpretador de texto fui modificando os arquivos criados pelo comando enviado de modo que a página tivesse o
+visual final que poderá ser visto em um print de tela anexo nesta documentação.
+Para elaborar o código do diretório App.js as informações do site "https://pt-br.reactjs.org/docs/react-component.html" foram cruciais,
+o entendimento das funcionalidades do React JS só se tornaram possíveis com a leitura deste artigo. 
+Ao fim do projeto concluo que foi um trabalho satisfatório e que trouxe muitos aprendizados em relação a questões que eu nunca havia 
+trabalhado antes.
